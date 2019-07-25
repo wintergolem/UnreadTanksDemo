@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/stevenhoover/Documents/GitHub/UnreadTanksDemo/BattleTanks/.vscode": true,
+		"/Users/stevenhoover/Documents/GitHub/UnreadTanksDemo/BattleTanks/Content": true,
+		"/Users/stevenhoover/Documents/GitHub/UnreadTanksDemo/BattleTanks/Intermediate": true
+	}
+}
